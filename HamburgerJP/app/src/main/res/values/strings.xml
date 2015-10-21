@@ -8,16 +8,19 @@
 
     <string name="local">Localização</string>
     <string name="phone">Telefone</string>
-    <string name="facebook">Facebook</string>
+    <string name="social">Social</string>
     <string name="payment">Pagamentos</string>
+    <string name="delivery">Delivery</string>
+    <string name="open">Horário de funcinamento</string>
 
     <!--Bang Bang Infos-->
 
     <string name="bangbang_name">Bang Bang Hamburgueria</string>
     <string name="bangbang_local">R. Joaquim Ferreira da Costa, 110 - Manaíra, João Pessoa - PB, 58038-540, Brazil </string>
     <string name="bangbang_phone">(83) 3508-6008 </string>
-    <string name="bangbang_fb">https://www.facebook.com/Bang-Bang-Hamburgueria-811530322216156/timeline/</string>
-    <string name="bangbang_pay"></string>
+    <string name="bangbang_social">Facebook: Sim\n Instagram: Sim\n Twitter: -\n Snapchat: -</string>
+    <string name="bangbang_pay">Dinheiro\n Cartões: Master, Visa, RedeShop, Visa Electron</string>
+    <string name="bangbang_open">Quarta - Domingo\n 17h - 23h</string>
 
     <!--Titles-->
 
